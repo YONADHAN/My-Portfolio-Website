@@ -41,7 +41,7 @@ const Projects = () => {
             <img src="/images/Firebase.svg" alt="Firebase" />
           </div>
           <div className='w-[160px] h-[160px] p-9 cursor-pointer bg-blue-600/30 hover:bg-blue-600 hover:p-3 duration-200 z-30'>
-            <img src="/images/Node.js.svg" alt="Node.js" />
+            <img src="/My-Portfolio-Website/images/Node.js.svg" alt="Node.js" />
           </div>  
           <div className='w-[160px] h-[160px] p-9 cursor-pointer bg-blue-600/30 hover:bg-blue-600 hover:p-3 duration-200 z-30'>
             <img src="/images/Express.svg" alt="Express" />
